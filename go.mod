@@ -1,4 +1,4 @@
-module github.com/cortexlabs/yaml
+module github.com/PEAT-AI/yaml
 
 go 1.15
 
